@@ -1,2 +1,2 @@
 # FinalGame
-Game by Daniel Shim, Nichols Tung
+Game by Daniel Shim, Nichols Tung, Sehadatullah Atal
