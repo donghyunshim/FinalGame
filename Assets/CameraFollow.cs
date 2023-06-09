@@ -9,14 +9,14 @@ public class CameraFollow : MonoBehaviour
     Vector2 mousePos;
     public Camera cam;
 
-    public float offsetx = .1f;
-    public float offsety = .14f;
+    public float offsetx = 0;
+    public float offsety = 0;
 
     // Update is called once per frame
     void Update()
     {
         mousePos = cam.ScreenToWorldPoint(Input.mousePosition);
-        Vector3 newPos = new Vector3((target.position.x + mousePos.x * offsetx) / 1, (target.position.y + mousePos.y * offsety) / 1, -10f);
+        Vector3 newPos = new Vector3(target.position.x, target.position.y , -5f);
         transform.position = Vector3.Slerp(transform.position, newPos, Followspeed * Time.deltaTime);
     }
 }
