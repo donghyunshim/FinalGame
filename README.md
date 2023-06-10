@@ -53,6 +53,24 @@ Seemless transition between animation into the interactable game.
 Chroeography in code:  
 used the equivalent of tweens chains and events in unity to create a coherent  
 cinematic for the begining of the game.  
+  
+**Scene Flow Prototype:**  
+  
+Scene Types:  
+Main Title  
+Credits  
+Settings  
+Game  
+  
+Communication between Scenes:  
+The Volume slider Adjusted in the Settings Scene will be carried throughout other scenes that have audio  
+  
+Reachability:  
+All scenes are reachable from Main Menu and Vice Versa. Different Screens Like credits and Settings have  
+a back button to allow traversal.  
+  
+Transitions: Animated Transition when hovering over buttons aswell as when pressing play and moving onto  
+next scene.  
 
 
 
