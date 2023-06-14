@@ -5,7 +5,7 @@ Game by Daniel Shim, Nichols Tung, Sehadatullah Atal, Brendan Wang
 **Cutscene Prototype***  
 [HERE](https://salad-stash.itch.io/cutsceneprototype?password=7615)  
   
-**Scene Flow Prototype**
+**Scene Flow Prototype**  
 [HERE](https://salad-stash.itch.io/cutscenebuild?password=7615)  
   
 **Core Gameplay Prototype Requirements:**  
