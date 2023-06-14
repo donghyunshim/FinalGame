@@ -14,7 +14,10 @@ Game by Daniel Shim, Nichols Tung, Sehadatullah Atal, Brendan Wang
 **Selectable Requirements**  
 
 Advanced visual assets - Unity Particle System  
-
+  
+Procedural audio - we also attemped procedural audio however were unseccessful  
+due to contraints in time.  
+  
 Procedural Graphics - We also attempted this by having several rotating joing  
 however we landed on a single joint that connects the player and enemies  
 with thier weapon that rotates and faces the player/enemy.  
@@ -108,3 +111,9 @@ Testing Lead: Brendan Wang
 **Asset Credits**
 
 All assets were created by Brendan Wang, Nick Tung, and Daniel Shim
+
+**Repository Contributions** 
+Repository Contributions was handled mostly by one person as they were  
+the primary coding developer however, the game with worked on with equal  
+contributions from art developers. We hope this is satisfactory as it was  
+most intuitive for us to play to our strengths in order to deliver a good game.  
