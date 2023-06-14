@@ -72,5 +72,17 @@ a back button to allow traversal.
 Transitions: Animated Transition when hovering over buttons aswell as when pressing play and moving onto  
 next scene.  
 
+**Theme**
 
+Unleash the power of innovative recipes and advanced cooking techniques as you adapt to a futuristic world, combining cutting-edge technology with traditional culinary practices to defeat mutated fast food enemies
 
+**Contributor Credits**
+
+Lead Developer: Atal Kakar
+Production Lead: Atal Kakar
+Technology Lead: Nick Tung
+Testing Lead: Brendan Wang
+
+**Asset Credits**
+
+All assets were created by Brendan Wang, Nick Tung, and Daniel Shim
