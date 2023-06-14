@@ -1,9 +1,26 @@
 # FinalGame  
 Game by Daniel Shim, Nichols Tung, Sehadatullah Atal, Brendan Wang  
+[HERE](https://salad-stash.itch.io/culinary-clash?password=7615)  
   
+**Cutscene Prototype***  
+[HERE](https://salad-stash.itch.io/cutsceneprototype?password=7615)  
+  
+**Scene Flow Prototype**
+[HERE](https://salad-stash.itch.io/cutscenebuild?password=7615)  
   
 **Core Gameplay Prototype Requirements:**  
-  
+[HERE](https://salad-stash.itch.io/gameplayprototype?password=761)
+**Selectable Requirements**  
+
+Advanced visual assets - Unity Particle System  
+
+We were unable to implement more of the requirements specificed  
+in the documentation however, we worked very hard on a unique  
+A* pathfidning AI that is able to detect obstacles around it and track  
+player movements and bullets in order to dodge them. We hope this is satisfactory  
+for one of the requirements as it is difficult to implement.  
+
+
 Audio:  
 Background Music  
 Three Different Sound Effects for Shooting (Pistol, Automatic, Shotgun)  
