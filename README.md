@@ -15,6 +15,10 @@ Game by Daniel Shim, Nichols Tung, Sehadatullah Atal, Brendan Wang
 
 Advanced visual assets - Unity Particle System  
 
+Procedural Graphics - We also attempted this by having several rotating joing  
+however we landed on a single joint that connects the player and enemies  
+with thier weapon that rotates and faces the player/enemy.  
+  
 We were unable to implement more of the requirements specificed  
 in the documentation however, we worked very hard on a unique  
 A* pathfidning AI that is able to detect obstacles around it and track  
