@@ -9,7 +9,8 @@ Game by Daniel Shim, Nichols Tung, Sehadatullah Atal, Brendan Wang
 [HERE](https://salad-stash.itch.io/cutscenebuild?password=7615)  
   
 **Core Gameplay Prototype Requirements:**  
-[HERE](https://salad-stash.itch.io/gameplayprototype?password=761)
+[HERE](https://salad-stash.itch.io/gameplayprototype?password=761)  
+  
 **Selectable Requirements**  
 
 Advanced visual assets - Unity Particle System  
